@@ -1,0 +1,1 @@
+This is the Write Method to write contents in files (.txt) format.  Append this to the File.  
